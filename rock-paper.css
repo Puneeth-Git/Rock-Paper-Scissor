@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(27, 25, 25);
+    margin: 0;
+}
+.first{
+    color: aliceblue;
+    font-size: x-large;
+  text-align: center;
+  
+  height: 80px;
+  background-color:#6b5b95;
+  padding: 10px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.but{
+    background-color: rgb(53, 50, 50);
+    height: 700px;
+    width: 80%;
+    margin: 10%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 12px 12px rgba(214, 214, 214, 0.4);
+}
+button{
+    width:300px;
+    height: 60px;
+    margin: 2.6%;
+    font-size: xx-large;
+    background-color: #FFA500;
+    color: black;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+button:hover{
+        transform: translateY(-10px);
+        box-shadow: 0 6px 12px rgba(255, 165, 0, 0.4);
+    }
+.js-ressss{
+    background-color: rgb(173, 196, 196);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    margin-top: 180px;
+}
+.js-you, .js-comp, .js-final{
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+
+
+}
+.resettt{
+   margin-top:-10px ;
+   margin-left: 740px;
+
+}
